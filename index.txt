@@ -4,5 +4,6 @@
     </head>
     <body>
         <div>1</div>
+        <a href="#">链接</a>
     </body>
 </html>
