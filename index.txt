@@ -5,5 +5,7 @@
     <body>
         <div>1</div>
         <a href="#">链接</a>
+        <button class=“btn btn-primary”>按钮1</button>
+        <button>按钮2</button>
     </body>
 </html>
